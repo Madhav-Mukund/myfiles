@@ -1,0 +1,603 @@
+,NAME,CLUB,RATING
+0,David Raya,Brentford,74
+1,Kristoffer Ajer,Brentford,75
+2,Ethan Pinnock,Brentford,74
+3,Pontus Jansson,Brentford,75
+4,Rico Henry,Brentford,74
+5,Vitaly Janelt,Brentford,73
+6,Frank Onyeka,Brentford,75
+7,Sergi Canos,Brentford,72
+8,Christian Norgaard,Brentford,73
+9,Bryan Mbeumo,Brentford,74
+10,Ivan Toney,Brentford,76
+11,Patrik Gunnarsson,Brentford,65
+12,Mads Roerslev,Brentford,67
+13,Mads Bech Sorensen,Brentford,68
+14,Charlie Goode,Brentford,67
+15,Bernd Leno,Arsenal,83
+16,Kieran Tierney,Arsenal,80
+17,Pablo Mari,Arsenal,76
+18,Ben White,Arsenal,76
+19,Calum Chambers,Aston Villa,75
+20,Emile Smith Rowe,Arsenal,76
+21,Gabriel Martinelli,Arsenal,76
+22,Nicolas Pepe,Arsenal,81
+23,Granit Xhaka,Arsenal,79
+24,Albert Sambi Lokonga,Arsenal,73
+25,Folarin Balogun,Arsenal,64
+26,Karl Hein,Arsenal,59
+27,Cedric Soares,Arsenal,76
+28,Rob Holding,Arsenal,77
+29,Hector Bellerin,Arsenal,78
+30,Nick Pope,Burnley,83
+31,Matthew Lowton,Burnley,76
+32,Ben Mee,Burnley,79
+33,Charlie Taylor,Burnley,76
+34,James Tarkowski,Burnley,81
+35,Johann Gudmundsson,Burnley,75
+36,Jack Cork,Burnley,76
+37,Ashley Westwood,Burnley,78
+38,Dwight McNeil,Burnley,77
+39,Chris Wood,Newcastle United,77
+40,Jay Rodriguez,Burnley,74
+41,Wayne Hennessey,Burnley,74
+42,Erik Pieters,Burnley,74
+43,Phil Bardsley,Burnley,71
+44,Bobby Thomas,Burnley,61
+45,Robert Sanchez,Brighton and Hove Albion,76
+46,Lewis Dunk,Brighton and Hove Albion,78
+47,Pascal Gross,Brighton and Hove Albion,76
+48,Adam Webster,Brighton and Hove Albion,75
+49,Shane Duffy,Brighton and Hove Albion,72
+50,Steven Alzate,Brighton and Hove Albion,70
+51,Yves Bissouma,Brighton and Hove Albion,79
+52,Enock Mwepu,Brighton and Hove Albion,75
+53,Leandro Trossard,Brighton and Hove Albion,77
+54,Solly March,Brighton and Hove Albion,75
+55,Neal Maupay,Brighton and Hove Albion,77
+56,Jason Steele,Brighton and Hove Albion,66
+57,Michal Karbownik,Brighton and Hove Albion,68
+58,Alexis Mac Allister,Brighton and Hove Albion,75
+59,Adam Lallana,Brighton and Hove Albion,75
+60,Edouard Mendy,Chelsea,83
+61,Trevoh Chalobah,Chelsea,73
+62,Andreas Christensen,Chelsea,80
+63,Antonio Rudiger,Chelsea,83
+64,Marcos Alonso,Chelsea,79
+65,Mateo Kovacic,Chelsea,83
+66,Jorginho,Chelsea,85
+67,Cesar Azpilicueta,Chelsea,83
+68,Christian Pulisic,Chelsea,82
+69,Mason Mount,Chelsea,83
+70,Timo Werner,Chelsea,84
+71,Kepa Arrizabalaga,Chelsea,79
+72,Reece James,Chelsea,81
+73,Thiago Silva,Chelsea,85
+74,Ben Chilwell,Chelsea,82
+75,Vicente Guaita,Crystal Palace,80
+76,Tyrick Mitchell,Crystal Palace,71
+77,Marc Guehi,Crystal Palace,73
+78,Cheikhou Kouyate,Crystal Palace,78
+79,Joel Ward,Crystal Palace,74
+80,Jairo Riedewald,Crystal Palace,75
+81,Jordan Ayew,Crystal Palace,75
+82,James McArthur,Crystal Palace,75
+83,Jeffrey Schlupp,Crystal Palace,75
+84,Jean-Philippe Mateta,Crystal Palace,75
+85,Wilfried Zaha,Crystal Palace,82
+86,Jack Butland,Crystal Palace,73
+87,Joachim Andersen,Crystal Palace,77
+88,Reece Hannam,Crystal Palace,53
+89,Nathaniel Clyne,Crystal Palace,75
+90,Jordan Pickford,Everton,83
+91,Lucas Digne,Aston Villa,83
+92,Mason Holgate,Everton,77
+93,Seamus Coleman,Everton,78
+94,Michael Keane,Everton,80
+95,Andros Townsend,Everton,77
+96,Demarai Gray,Everton,75
+97,Richarlison,Everton,82
+98,Allan,Everton,83
+99,Abdoulaye Doucoure,Everton,79
+100,Dominic Calvert-Lewin,Everton,81
+101,Asmir Begovic,Everton,76
+102,Jonjoe Kenny,Everton,74
+103,Jarrad Branthwaite,Everton,66
+104,Yerry Mina,Everton,79
+105,Alex McCarthy,Southampton,75
+106,Tino Livramento,Southampton,62
+107,Romain Perraud,Southampton,77
+108,Mohammed Salisu,Southampton,76
+109,Jack Stephens,Southampton,74
+110,Moussa Djenepo,Southampton,74
+111,Theo Walcott,Southampton,76
+112,James Ward-Prowse,Southampton,81
+113,Oriol Romeu,Southampton,78
+114,Adam Armstrong,Southampton,76
+115,Che Adams,Southampton,76
+116,Fraser Forster,Southampton,75
+117,Yan Valery,Southampton,71
+118,Kyle Walker-Peters,Southampton,77
+119,Jan Bednarek,Southampton,76
+120,Kasper Schmeichel,Leicester City,85
+121,Luke Thomas,Leicester City,71
+122,Caglar Soyuncu,Leicester City,80
+123,Daniel Amartey,Leicester City,76
+124,Ricardo Pereira,Leicester City,84
+125,James Maddison,Leicester City,82
+126,Ayoze Perez,Leicester City,78
+127,Wilfred Ndidi,Leicester City,85
+128,Harvey Barnes,Leicester City,81
+129,Youri Tielemans,Leicester City,84
+130,Jamie Vardy,Leicester City,86
+131,Danny Ward,Leicester City,74
+132,Jannik Vestergaard,Leicester City,78
+133,Kiernan Dewsbury-Hall,Leicester City,71
+134,Boubakary Soumare,Leicester City,78
+135,Jose Sa,Wolverhampton Wanderers,79
+136,Maximilian Kilman,Wolverhampton Wanderers,70
+137,Conor Coady,Wolverhampton Wanderers,79
+138,Romain Saiss,Wolverhampton Wanderers,78
+139,Ruben Neves,Wolverhampton Wanderers,82
+140,Ki-Jana Hoever,Wolverhampton Wanderers,65
+141,Marcal,Wolverhampton Wanderers,75
+142,Joao Moutinho,Wolverhampton Wanderers,70
+143,Trincao,Wolverhampton Wanderers,76
+144,Raul Jimenez,Wolverhampton Wanderers,83
+145,Adama Traore,Wolverhampton Wanderers,78
+146,John Ruddy,Wolverhampton Wanderers,70
+147,Rayan Ait-Nouri,Wolverhampton Wanderers,76
+148,Christian Marques,Wolverhampton Wanderers,58
+149,Nelson Semedo,Wolverhampton Wanderers,80
+150,David de Gea,Manchester United,84
+151,Harry Maguire,Manchester United,84
+152,Luke Shaw,Manchester United,84
+153,Aaron Wan-Bissaka,Manchester United,83
+154,Victor Lindelof,Manchester United,80
+155,Fred,Manchester United,81
+156,Daniel James,Leeds United,77
+157,Paul Pogba,Manchester United,87
+158,Scott McTominay,Manchester United,80
+159,Bruno Fernandes,Manchester United,88
+160,Mason Greenwood,Manchester United,78
+161,Tom Heaton,Manchester United,76
+162,Diogo Dalot,Manchester United,76
+163,Brandon Williams,Norwich City,75
+164,Juan Mata,Manchester United,78
+165,Illan Meslier,Leeds United,77
+166,Stuart Dallas,Leeds United,75
+167,Luke Ayling,Leeds United,76
+168,Liam Cooper,Leeds United,75
+169,Pascal Struijk,Leeds United,74
+170,Mateusz Klich,Leeds United,75
+171,Jack Harrison,Leeds United,78
+172,Robin Koch,Leeds United,77
+173,Raphinha,Leeds United,82
+174,Rodrigo,Leeds United,73
+175,Patrick Bamford,Leeds United,78
+176,Kristoffer Klaesson,Leeds United,64
+177,Junior Firpo,Leeds United,78
+178,Jamie Shackleton,Leeds United,69
+179,Kalvin Phillips,Leeds United,81
+180,Freddie Woodman,Newcastle United,74
+181,Federico Fernandez,Newcastle United,75
+182,Matt Ritchie,Newcastle United,74
+183,Jacob Murphy,Newcastle United,72
+184,Ciaran Clark,Newcastle United,75
+185,Emil Krafth,Newcastle United,73
+186,Jonjo Shelvey,Newcastle United,75
+187,Miguel Almiron,Newcastle United,77
+188,Isaac Hayden,Newcastle United,76
+189,Callum Wilson,Newcastle United,79
+190,Allan Saint-Maximin,Newcastle United,79
+191,Mark Gillespie,Newcastle United,70
+192,Fabian Schar,Newcastle United,76
+193,Jamal Lewis,Newcastle United,73
+194,Jamaal Lascelles,Newcastle United,77
+195,Lukasz Fabianski,West Ham United,82
+196,Angelo Ogbonna,West Ham United,80
+197,Vladimir Coufal,West Ham United,80
+198,Craig Dawson,West Ham United,77
+199,Aaron Cresswell,West Ham United,79
+200,Jarrod Bowen,West Ham United,78
+201,Pablo Fornals,West Ham United,79
+202,Said Benrahma,West Ham United,77
+203,Tomas Soucek,West Ham United,82
+204,Declan Rice,West Ham United,82
+205,Michail Antonio,West Ham United,79
+206,Alphonse Areola,West Ham United,82
+207,Issa Diop,West Ham United,77
+208,Ben Johnson,West Ham United,68
+209,Jamal Baptiste,West Ham United,57
+210,Tim Krul,Norwich City,77
+211,Max Aarons,Norwich City,75
+212,Ben Gibson,Norwich City,72
+213,Grant Hanley,Norwich City,75
+214,Dimitris Giannoulis,Norwich City,74
+215,Pierre Lees-Melou,Norwich City,76
+216,Lukas Rupp,Norwich City,73
+217,Billy Gilmour,Norwich City,72
+218,Milot Rashica,Norwich City,77
+219,Todd Cantwell,Norwich City,75
+220,Teemu Pukki,Norwich City,76
+221,Angus Gunn,Norwich City,72
+222,Bali Mumba,Norwich City,65
+223,Christoph Zimmermann,Norwich City,71
+224,Kenny McLean,Norwich City,73
+225,Alisson,Liverpool,89
+226,Joel Matip,Liverpool,83
+227,Virgil van Dijk,Liverpool,89
+228,Konstantinos Tsimikas,Liverpool,74
+229,Trent Alexander-Arnold,Liverpool,87
+230,Alex Oxlade-Chamberlain,Liverpool,79
+231,James Milner,Liverpool,79
+232,Naby Keita,Liverpool,80
+233,Sadio Mane,Liverpool,89
+234,Mohamed Salah,Liverpool,89
+235,Diogo Jota,Liverpool,82
+236,Caoimhin Kelleher,Liverpool,67
+237,Joe Gomez,Liverpool,82
+238,Ibrahima Konate,Liverpool,78
+239,Harvey Elliott,Liverpool,73
+240,Hugo Lloris,Tottenham Hotspur,87
+241,Sergio Reguilon,Tottenham Hotspur,81
+242,Davinson Sanchez,Tottenham Hotspur,79
+243,Eric Dier,Tottenham Hotspur,79
+244,Japhet Tanganga,Tottenham Hotspur,74
+245,Dele Alli,Everton,78
+246,Pierre-Emile Hojbjerg,Tottenham Hotspur,83
+247,Oliver Skipp,Tottenham Hotspur,75
+248,Steven Bergwijn,Tottenham Hotspur,80
+249,Son Heung-Min,Tottenham Hotspur,89
+250,Lucas Moura,Tottenham Hotspur,81
+251,Pierluigi Gollini,Tottenham Hotspur,82
+252,Cristian Romero,Tottenham Hotspur,82
+253,Matt Doherty,Tottenham Hotspur,78
+254,Ben Davies,Tottenham Hotspur,79
+255,Ederson,Manchester City,89
+256,Ruben Dias,Manchester City,87
+257,Benjamin Mendy,Manchester City,79
+258,Nathan Ake,Manchester City,78
+259,Joao Cancelo,Manchester City,86
+260,Fernandinho,Manchester City,65
+261,Ilkay Gundogan,Manchester City,85
+262,Jack Grealish,Manchester City,84
+263,Ferran Torres,Manchester City,82
+264,Raheem Sterling,Manchester City,88
+265,Riyad Mahrez,Manchester City,86
+266,Zack Steffen,Manchester City,77
+267,John Stones,Manchester City,83
+268,Oleksandr Zinchenko,Manchester City,80
+269,Aymeric Laporte,Manchester City,86
+270,Daniel Bachmann,Watford,70
+271,Adam Masina,Watford,74
+272,Craig Cathcart,Watford,72
+273,William Troost-Ekong,Watford,73
+274,Christian Kabasele,Watford,75
+275,Ken Sema,Watford,73
+276,Tom Cleverley,Watford,74
+277,Ismaila Sarr,Watford,78
+278,Peter Etebo,Watford,72
+279,Juraj Kucka,Watford,77
+280,Emmanuel Dennis,Watford,74
+281,Ben Foster,Watford,78
+282,Francisco Sierralta,Watford,72
+283,Danny Rose,Watford,75
+284,Jeremy Ngakia,Watford,69
+285,Emiliano Martinez,Aston Villa,84
+286,Matt Targett,Newcastle United,77
+287,Tyrone Mings,Aston Villa,78
+288,Matty Cash,Aston Villa,78
+289,Ezri Konsa,Aston Villa,78
+290,Ashley Young,Aston Villa,78
+291,Anwar El Ghazi,Aston Villa,76
+292,Emiliano Buendia,Aston Villa,79
+293,Marvelous Nakamba,Aston Villa,75
+294,John McGinn,Aston Villa,78
+295,Danny Ings,Aston Villa,81
+296,Jed Steer,Aston Villa,72
+297,Kortney Hause,Aston Villa,75
+298,Axel Tuanzebe,Aston Villa,74
+299,Jaden Philogene,Aston Villa,60
+300,Bukayo Saka,Arsenal,80
+301,Aaron Ramsdale,Arsenal,74
+302,Nuno Tavares,Arsenal,70
+303,Sead Kolasinac,Arsenal,75
+304,Romelu Lukaku,Chelsea,88
+305,Kai Havertz,Chelsea,84
+306,Kurt Zouma,West Ham United,81
+307,Jacob Ramsey,Aston Villa,68
+308,Douglas Luiz,Aston Villa,77
+309,Joe Willock,Newcastle United,75
+310,Haydon Roberts,Brighton and Hove Albion,58
+311,Moises Caicedo,Brighton and Hove Albion,67
+312,Jakub Moder,Brighton and Hove Albion,70
+313,Imran Louza,Watford,75
+314,Conor Gallagher,Crystal Palace,74
+315,Christian Benteke,Crystal Palace,75
+316,Remi Matthews,Crystal Palace,65
+317,Martin Kelly,Crystal Palace,74
+318,James Tomkins,Crystal Palace,75
+319,Alvaro Fernandez,Manchester United,62
+320,Charlie Cresswell,Leeds United,63
+321,Cody Drameh,Leeds United,63
+322,Adam Forshaw,Leeds United,71
+323,Alex Iwobi,Everton,77
+324,Jordan Henderson,Liverpool,84
+325,Adrian,Liverpool,60
+326,Josh Brownhill,Burnley,76
+327,Ashley Barnes,Burnley,75
+328,Will Norris,Burnley,65
+329,Nathan Collins,Burnley,71
+330,Owen Dodgson,Burnley,56
+331,Kyle Walker,Manchester City,85
+332,Bernardo Silva,Manchester City,86
+333,Rodri,Manchester City,87
+334,Gabriel Jesus,Manchester City,83
+335,Andrew Omobamidele,Norwich City,67
+336,Jacob Sorensen,Norwich City,70
+337,Nemanja Matic,Manchester United,79
+338,Anthony Martial,Manchester United,81
+339,Raphael Varane,Manchester United,86
+340,Ryan Fredericks,West Ham United,76
+341,Timothy Castagne,Leicester City,79
+342,Dennis Praet,Leicester City,78
+343,Hamza Choudhury,Leicester City,73
+344,Giovani Lo Celso,Tottenham Hotspur,81
+345,Carney Chukwuemeka,Aston Villa,57
+346,Frederic Guilbert,Aston Villa,78
+347,Conor Hourihane,Aston Villa,74
+348,Saman Ghoddos,Brentford,70
+349,Dominic Thompson,Brentford,63
+350,Finley Stevens,Brentford,59
+351,Yoane Wissa,Brentford,75
+352,Joel Veltman,Brighton and Hove Albion,77
+353,Andy Lonergan,Everton,64
+354,Niels Nkounkou,Everton,66
+355,Diego Llorente,Leeds United,77
+356,Liam McCarron,Leeds United,59
+357,Andrew Robertson,Liverpool,87
+358,Fabinho,Liverpool,86
+359,Roberto Firmino,Liverpool,85
+360,NGolo Kante,Chelsea,90
+361,Martin Odegaard,Arsenal,82
+362,Pierre-Emerick Aubameyang,Arsenal,85
+363,Arthur Okonkwo,Arsenal,61
+364,Sean Longstaff,Newcastle United,72
+365,Mohamed Elyounoussi,Southampton,75
+366,Marc Albrighton,Leicester City,76
+367,Eldin Jakupovic,Leicester City,64
+368,Harry Kane,Tottenham Hotspur,90
+369,Moussa Sissoko,Watford,78
+370,Joshua King,Watford,75
+371,Robert Elliot,Watford,69
+372,Willy Boly,Wolverhampton Wanderers,79
+373,Jadon Sancho,Manchester United,87
+374,Donny van de Beek,Everton,79
+375,Gabriel Magalhaes,Arsenal,76
+376,Takehiro Tomiyasu,Arsenal,75
+377,Ainsley Maitland-Niles,Arsenal,75
+378,Kieran Dowell,Norwich City,71
+379,Christos Tzolis,Norwich City,74
+380,Ozan Kabak,Norwich City,76
+381,Shandon Baptiste,Brentford,66
+382,Zanka,Brentford,72
+383,Marc Cucurella,Brighton and Hove Albion,81
+384,Danny Welbeck,Brighton and Hove Albion,73
+385,Kjell Scherpen,Brighton and Hove Albion,69
+386,Saul Niguez,Chelsea,82
+387,Callum Hudson-Odoi,Chelsea,77
+388,Hakim Ziyech,Chelsea,84
+389,Ollie Watkins,Aston Villa,78
+390,Viljami Sinisalo,Aston Villa,55
+391,Emerson Royal,Tottenham Hotspur,79
+392,Harry Winks,Tottenham Hotspur,77
+393,Joe Rodon,Tottenham Hotspur,72
+394,Ben Godfrey,Everton,77
+395,Tom Davies,Everton,75
+396,Maxwel Cornet,Burnley,75
+397,Thiago,Liverpool,64
+398,Ryan Bertrand,Leicester City,76
+399,Jonny Evans,Leicester City,80
+400,Scott Carson,Manchester City,67
+401,Cristiano Ronaldo,Manchester United,91
+402,Eric Bailly,Manchester United,79
+403,Javier Manquillo,Newcastle United,74
+404,Joelinton,Newcastle United,74
+405,Karl Darlow,Newcastle United,76
+406,Nathan Redmond,Southampton,76
+407,Lyanco,Southampton,72
+408,Yerson Mosquera,Wolverhampton Wanderers,64
+409,Salomon Rondon,Everton,77
+410,Tariq Lamptey,Brighton and Hove Albion,74
+411,Dan Burn,Newcastle United,77
+412,Thomas Partey,Arsenal,83
+413,Nathaniel Phillips,Liverpool,73
+414,Josh Wilson-Esbrand,Manchester City,73
+415,Luke Mbete,Manchester City,62
+416,Cole Palmer,Manchester City,64
+417,Crysencio Summerville,Leeds United,68
+418,Mathias Normann,Norwich City,76
+419,Joshua Sargent,Norwich City,71
+420,Kiko Femenia,Watford,75
+421,Tanguy Ndombele,Tottenham Hotspur,82
+422,Marcus Bettinelli,Chelsea,71
+423,Nikola Vlasic,West Ham United,80
+424,Jesse Lingard,Manchester United,79
+425,Mathias Jensen,Brentford,74
+426,Curtis Jones,Liverpool,73
+427,Kevin De Bruyne,Manchester City,91
+428,Phil Foden,Manchester City,84
+429,Romeo Lavia,Manchester City,62
+430,Luka Milivojevic,Crystal Palace,76
+431,Odsonne Edouard,Crystal Palace,75
+432,Will Hughes,Crystal Palace,76
+433,Taylor Richards,Brighton and Hove Albion,66
+434,Leo Hjelde,Leeds United,60
+435,Ademola Lookman,Leicester City,77
+436,Matej Vydra,Burnley,74
+437,Leander Dendoncker,Wolverhampton Wanderers,77
+438,Hwang Hee-Chan,Wolverhampton Wanderers,77
+439,Daniel Podence,Wolverhampton Wanderers,78
+440,Louie Moulden,Wolverhampton Wanderers,60
+441,Aaron Lennon,Burnley,73
+442,Kevin Long,Burnley,71
+443,Ruben Loftus-Cheek,Chelsea,75
+444,Nathan Tella,Southampton,66
+445,Kelechi Iheanacho,Leicester City,78
+446,Ozan Tufan,Watford,76
+447,Neco Williams,Liverpool,68
+448,Edinson Cavani,Manchester United,85
+449,Dean Henderson,Manchester United,80
+450,Alex Telles,Manchester United,82
+451,Anthony Gordon,Everton,67
+452,Arthur Masuaku,West Ham United,77
+453,Malang Sarr,Chelsea,74
+454,Harry Tyrer,Everton,60
+455,Cieran Slicker,Manchester City,52
+456,Connor Roberts,Burnley,75
+457,Ibrahima Diallo,Southampton,73
+458,Armando Broja,Southampton,70
+459,Tyler Roberts,Leeds United,73
+460,Cucho Hernandez,Watford,75
+461,Dan Gosling,Watford,72
+462,Alexandre Lacazette,Arsenal,82
+463,Michael Olise,Crystal Palace,73
+464,Ryan Fraser,Newcastle United,75
+465,Nicolas Nkoulou,Watford,80
+466,Marcus Rashford,Manchester United,85
+467,Leon Bailey,Aston Villa,82
+468,Marcus Forss,Brentford,68
+469,Matthew Cox,Brentford,57
+470,Martin Dubravka,Newcastle United,81
+471,Przemyslaw Placheta,Norwich City,69
+472,Joao Pedro,Watford,63
+473,James Storer,Wolverhampton Wanderers,60
+474,Jean-Philippe Gbamin,Everton,77
+475,Reece Welch,Everton,53
+476,Ross Barkley,Chelsea,78
+477,Fabian Delph,Everton,75
+478,Stuart Armstrong,Southampton,76
+479,Aaron Ramsey,Aston Villa,77
+480,Conor Bradley,Liverpool,64
+481,Owen Beck,Liverpool,61
+482,Joe Gelhardt,Leeds United,66
+483,Mohamed Elneny,Arsenal,77
+484,Wout Weghorst,Burnley,80
+485,Ryan Sessegnon,Tottenham Hotspur,75
+486,Rodrigo Bentancur,Tottenham Hotspur,79
+487,Dejan Kulusevski,Tottenham Hotspur,81
+488,Brandon Austin,Tottenham Hotspur,64
+489,Phil Jones,Manchester United,74
+490,Eberechi Eze,Crystal Palace,77
+491,Manuel Lanzini,West Ham United,77
+492,Jack Jenkins,Leeds United,61
+493,Jeremy Sarmiento,Brighton and Hove Albion,59
+494,Hugo Bueno,Wolverhampton Wanderers,59
+495,Patson Daka,Leicester City,77
+496,Vontae Campbell,Leicester City,60
+497,Harry Lewis,Southampton,62
+498,Adam Idah,Norwich City,67
+499,James Morris,Watford,57
+500,Harrison Ashby,West Ham United,59
+501,Luke Cundle,Wolverhampton Wanderers,54
+502,Willy Caballero,Southampton,72
+503,Vincent Angelini,Watford,53
+504,Ajibola Alese,West Ham United,57
+505,Andre Gomes,Everton,77
+506,Ben Nelson,Leicester City,58
+507,Trezeguet,Aston Villa,75
+508,Sam Byram,Norwich City,73
+509,Jonathan Tomkinson,Norwich City,62
+510,Jonas Lossl,Brentford,71
+511,Anthony Elanga,Manchester United,65
+512,Aaron Connolly,Brighton and Hove Albion,70
+513,Ed Turns,Brighton and Hove Albion,58
+514,Dale Stephens,Burnley,73
+515,Samir,Watford,73
+516,Hassane Kamara,Watford,76
+517,Edo Kayembe,Watford,70
+518,William Smallbone,Southampton,66
+519,James Justin,Leicester City,77
+520,Filip Marschall,Aston Villa,58
+521,Tim Iroegbunam,Aston Villa,62
+522,Ellis Simms,Everton,65
+523,Marcelo Pitaluga,Liverpool,57
+524,CJ Egan-Riley,Manchester City,63
+525,Robin Olsen,Aston Villa,75
+526,Vitaliy Mykolenko,Everton,76
+527,Wesley Fofana,Leicester City,78
+528,Nampalys Mendy,Leicester City,75
+529,Kris Moore,Leeds United,57
+530,Archie Gray,Leeds United,73
+531,Jeff Hendrick,Newcastle United,74
+532,Thierry Small,Southampton,58
+533,Dynel Simeu,Southampton,56
+534,Tyler Morton,Liverpool,64
+535,Jarell Quansah,Liverpool,60
+536,Pierre Ekwah,West Ham United,58
+537,Morgan Sanson,Aston Villa,76
+538,Mads Bidstrup,Brentford,64
+539,Luis Diaz,Liverpool,84
+540,Lewis Bate,Leeds United,63
+541,Michael McGovern,Norwich City,67
+542,Charlie Patino,Arsenal,64
+543,Nathan Ferguson,Crystal Palace,69
+544,Jonny,Wolverhampton Wanderers,80
+545,Zak Swanson,Arsenal,61
+546,Toti,Wolverhampton Wanderers,63
+547,Myles Peart-Harris,Brentford,65
+548,Jon McCracken,Norwich City,54
+549,Nathan Patterson,Everton,66
+550,Bruno Guimaraes,Newcastle United,79
+551,Paul Dummett,Newcastle United,74
+552,Philippe Coutinho,Aston Villa,82
+553,Shane Long,Southampton,72
+554,Mark Noble,West Ham United,75
+555,Bertrand Traore,Aston Villa,77
+556,Josh Feeney,Aston Villa,55
+557,Tyler Onyango,Everton,60
+558,Tony Springett,Norwich City,62
+559,Kaine Hayden,Aston Villa,64
+560,Marc Leonard,Brighton and Hove Albion,57
+561,Kieran Trippier,Newcastle United,84
+562,Harvey White,Tottenham Hotspur,62
+563,Alfie Devine,Tottenham Hotspur,57
+564,Eddie Nketiah,Arsenal,74
+565,Stuart McKinstry,Leeds United,61
+566,Dion Sanderson,Wolverhampton Wanderers,67
+567,Ryan Alebiosu,Arsenal,62
+568,Fabio Silva,Wolverhampton Wanderers,70
+569,Darren Randolph,West Ham United,75
+570,Ben Chrisene,Aston Villa,53
+571,Thomas McGill,Brighton and Hove Albion,54
+572,Lewis Hall,Chelsea,60
+573,Zach Awe,Arsenal,59
+574,Omari Hutchinson,Arsenal,69
+575,Josh Dasilva,Brentford,73
+576,Sam Waller,Burnley,50
+577,Tayo Adaramola,Crystal Palace,54
+578,Kenedy,Chelsea,77
+579,Odeluga Offiah,Brighton and Hove Albion,59
+580,Nohan Kenneh,Leeds United,64
+581,Alex Kral,West Ham United,75
+582,Lewis Brunt,Leicester City,57
+583,Christian Eriksen,Brentford,82
+584,Pedro Neto,Wolverhampton Wanderers,78
+585,Hannibal Mejbri,Manchester United,62
+586,Samuel Kalu,Watford,73
+587,Abu Kamara,Norwich City,69
+588,Mazeed Ogungbo,Arsenal,59
+589,Jamie Bowden,Tottenham Hotspur,63
+590,Julian Jeanvier,Brentford,70
+591,Marcel Lavinier,Tottenham Hotspur,58
+592,Chiquinho,Wolverhampton Wanderers,66
+593,Andrii Yarmolenko,West Ham United,76
+594,Matthew Craig,Tottenham Hotspur,54
+595,Alex Kirk,Arsenal,58
+596,Tyler Dibling,Southampton,58
+597,Takumi Minamino,Liverpool,75
+598,Rhys Williams,Liverpool,68
+599,Sam Greenwood,Leeds United,65
+600,Jesurun Rak-Sakyi,Crystal Palace,61
+601,Liam Gibbs,Norwich City,55
